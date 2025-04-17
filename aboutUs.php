@@ -18,7 +18,7 @@ echo "Hello World!";
   <input type="text" id="lname" name="lname" value="Doe">
 </form>
 
-<p>Note that the form itself is not visible.</p>
+<p>my name is rohit pal.</p>
 
 <p>Also note that the default width of text input fields is 20 characters.</p>
 
